@@ -17,7 +17,7 @@ public class GestoreBiblio
         Menu menu_p = new Menu();
         menu_p.addVoce("Aggiungi libro a Biblioteca", 1);
         menu_p.addVoce("Aggiungi Film a Biblioteca", 2);
-        menu_p.addVoce("", 3);
+        menu_p.addVoce("Aggiungi abbonamento a biblioteca", 3);
         menu_p.addVoce("",4);
         menu_p.addVoce("",5);
         menu_p.addVoce("",6);
